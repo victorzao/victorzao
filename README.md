@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @victorzao
 - 👀 Estou interessado em programação 
 - 🌱 Atualmente estou aprendendo html
-- 💞️ Estou procurando colaborar 
-- 📫 Como chegar até victorbala @criminal.
+- 💞️ Estou procurando colaborar self bot para discord
+- 📫 Como chegar até victorbala # 9595 @discord
 
 <!---
 victorzao/victorzao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
